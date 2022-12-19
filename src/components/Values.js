@@ -89,9 +89,14 @@ export const roles = [
 // CUT: exchangeattacktomagic, magearmor
 export const traits = [
   {
-    name: "Absorb Power",
+    name: "Absorb Power I",
     code: "spikearmor",
     desc: "Gain 3 Magic when an enemy casts a spell."
+  },
+  {
+    name: "Absorb Power II",
+    code: "spikearmor",
+    desc: "Gain 6 Magic when an enemy casts a spell."
   },
   {
     name: "Accursed",

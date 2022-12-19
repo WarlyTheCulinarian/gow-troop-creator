@@ -74,7 +74,7 @@ const useStyles = makeStyles(theme => ({
 
 // Default troop for the troop creator.
 const troopInfernus = {
-  name: "Infernus",
+  name: "Test",
   kingdom: "Broken Spire",
   rarity: "Mythic",
   level: "20",

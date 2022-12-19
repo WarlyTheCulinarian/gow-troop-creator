@@ -100,7 +100,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "http://mastereric.github.io/gow-troop-creator",
+  "homepage": "https://warlytheculinarian.github.io/gow-troop-creator",
   "jest": {
     "roots": [
       "<rootDir>/src"

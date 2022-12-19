@@ -109,9 +109,14 @@ export const traits = [
     desc: "Steal 5 Magic when an enemy casts a spell."
   },
   {
-    name: "Accursed",
+    name: "Accursed I",
     code: "cursed",
     desc: "All enemies lose 2 random Skill points."
+  },
+  {
+    name: "Accursed II",
+    code: "cursed",
+    desc: "All enemies lose 3 random Skill points."
   },
   {
     name: "Adagio",

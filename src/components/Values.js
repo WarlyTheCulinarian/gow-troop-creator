@@ -96,7 +96,17 @@ export const traits = [
   {
     name: "Absorb Power II",
     code: "spikearmor",
-    desc: "Gain 6 Magic when an enemy casts a spell."
+    desc: "Gain 5 Magic when an enemy casts a spell."
+  },
+  {
+    name: "Absorb Power III",
+    code: "spikearmor",
+    desc: "Steal 3 Magic when an enemy casts a spell."
+  },
+  {
+    name: "Absorb Power IV",
+    code: "spikearmor",
+    desc: "Steal 5 Magic when an enemy casts a spell."
   },
   {
     name: "Accursed",
